@@ -60,8 +60,8 @@ export default function Contact() {
               <Mail className="text-primary mt-1 flex-shrink-0" size={24} />
               <div>
                 <h4 className="font-semibold mb-1">Email</h4>
-                <a href="mailto:rajesh@example.com" className="text-foreground/60 hover:text-primary transition-colors">
-                  rajesh@example.com
+                <a href="mailto:personalrajesh025@gmail.com" className="text-foreground/60 hover:text-primary transition-colors">
+                  personalrajesh025@gmail.com
                 </a>
               </div>
             </div>
@@ -70,8 +70,8 @@ export default function Contact() {
               <Phone className="text-primary mt-1 flex-shrink-0" size={24} />
               <div>
                 <h4 className="font-semibold mb-1">Phone</h4>
-                <a href="tel:+919876543210" className="text-foreground/60 hover:text-primary transition-colors">
-                  +91 98765 43210
+                <a href="tel:+918010320050" className="text-foreground/60 hover:text-primary transition-colors">
+                  +91 8010320050
                 </a>
               </div>
             </div>
